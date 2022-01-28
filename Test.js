@@ -1,3 +1,3 @@
 function a() {
-  console.log("Test Code");
+  console.log("Test");
 }
