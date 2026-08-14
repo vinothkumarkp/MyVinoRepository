@@ -1,4 +1,4 @@
-# Ember Migration - 2.3.0 to 3.3.0
+# Ember Migration - 2.3.0 to 3.3.10
 
 ### Improvement
 We have few advantages moving from 2.3.0 to 3.3.0
